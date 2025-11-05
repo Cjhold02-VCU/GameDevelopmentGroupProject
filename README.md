@@ -9,5 +9,6 @@ Make sure all commands are done within the root of the project file in your comm
 
 #### To push changes
 - 'git add .'
-- 'git commit -m "<message>"
+- 'git commit -m "message"
 - 'git push origin main'
+
